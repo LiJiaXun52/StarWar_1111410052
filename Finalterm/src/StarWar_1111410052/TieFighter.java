@@ -18,7 +18,7 @@ public class TieFighter {
 	private int[] Passenger = {0,1};
 	private String[] Shield= {"無護盾（升級版可選） "};
 	private String[] Model;
-	private static double[] ShieldPower = {0};
+	static double[] ShieldPower = {0};
 	
 	public TieFighter() 
 	{
